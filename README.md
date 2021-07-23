@@ -16,3 +16,5 @@
 **睡眠唤醒问题**
 这里之列举了部分常见的问题，不一定每一台机子都一样，都需要具体情况具体分析。
 ![image](https://user-images.githubusercontent.com/57863504/126750246-c05e49dc-e504-47aa-bb3d-3337f1bd4009.png)
+**黑苹果安装完善交流地址**
+![qrcode_1627025499140](https://user-images.githubusercontent.com/57863504/126750943-7be4e092-5fdc-44e4-8509-74758c5e38c5.jpg)
