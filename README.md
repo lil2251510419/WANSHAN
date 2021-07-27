@@ -18,3 +18,4 @@
 ![image](https://user-images.githubusercontent.com/57863504/126750246-c05e49dc-e504-47aa-bb3d-3337f1bd4009.png)
 **黑苹果安装完善交流地址**
 ![qrcode_1627025499140](https://user-images.githubusercontent.com/57863504/126750943-7be4e092-5fdc-44e4-8509-74758c5e38c5.jpg)
+里面的文件上传进来之后书信有不在了，各位知道怎么办给我处处主意！
